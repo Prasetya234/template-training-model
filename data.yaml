@@ -1,0 +1,13 @@
+train: train_data/images/train
+val: train_data/images/val
+test: test/images
+
+nc: 0
+names: []
+
+roboflow:
+  workspace: prasetya-dhany-6lslt
+  project: swimming
+  version: 1
+  license: CC BY 4.0
+  url: https://app.roboflow.com/prasetya-dhany-6lslt/swimming-detect/3
